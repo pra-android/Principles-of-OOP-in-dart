@@ -1,5 +1,5 @@
 # Principles-of-OOP-in-dart
-It is basically program/projects based on Principles of OOP in dart.It is the most important concepts in Object Oriented Programming in Dart for real world problems.
+It is basically program/projects based on Principles of OOP in dart.It is the most important concepts in Object Oriented Programming in Dart for solving real world problems.
 
 ## TOPICS COVERED
 1.Encapsulation
